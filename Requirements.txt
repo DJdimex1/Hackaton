@@ -1,0 +1,2 @@
+Pylance==v2025.8.2
+pyttsx3==2.99

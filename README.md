@@ -19,4 +19,4 @@ Un poco mas
 -Sympy
 
 ## Los artículos de la guía que me ayudarán durante el desarrollo
-Un breve comentario que le ayudará a recordar de qué trata el artículo... [una palabra clicable que contendrá el enlace](https://www.un.org/es/un75/climate-crisis-race-we-can-win)
+[Informacion sobre el caleantamiento global](https://www.un.org/es/un75/climate-crisis-race-we-can-win)

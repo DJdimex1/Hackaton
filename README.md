@@ -1,10 +1,9 @@
 # Hackaton
 
 Idea de mi proyecto:
-# La idea de mi proyecto es hacer un bot que te pueda hablar sobre como reciclar
-
+# La idea de mi proyecto es hacer un bot que te pueda hablar sobre el cambio climatico
 Tipo de proyecto:
-# Puedes hacerle preguntas al bot y este te dara respuestas sobre reciclaje
+# Puedes hacerle preguntas al bot y este te dara respuestas sobre el cambio climatico
 
 Un poco mas
 
@@ -13,6 +12,8 @@ Un poco mas
 
 ## Las bibliotecas que voy a utilizar:
 - Discord
+- Nextcord
+- aiohttp
 - Pyttsx3
 -Request
 -Numpy
